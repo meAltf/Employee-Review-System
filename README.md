@@ -33,21 +33,21 @@ After reaching the project directory you have to run the following the command.
   You can review the employees. The admin has the special power to assing, the task to employee, remove the employee, add new admin, and also employee;
   
   
-  # -HomePage / Admin View
+  ## -HomePage / Admin View
 
-  # -Home page / Employee view
+  ## -Home page / Employee view
 
   
-  # -Sign-Up
+  ## -Sign-Up
 
 
-  # -Sign-In
+  ## -Sign-In
 
-  # -Forget Password
+  ## -Forget Password
   
-  # -Assign Task
+  ## -Assign Task
 
-  # -Employee List
+  ## -Employee List
   
 
   
